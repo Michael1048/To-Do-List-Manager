@@ -14,6 +14,6 @@ To-Do List Manager is a simple Python application that helps you manage your dai
 Clone the repository and run the script:
 
 ```sh
-git clone https://github.com/your-username/todo-list-manager.git
+git clone https://github.com/Michael1048/todo-list-manager.git
 cd todo-list-manager
 python main.py
